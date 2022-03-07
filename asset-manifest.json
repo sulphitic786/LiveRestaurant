@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/revelation/static/js/main.6738c7ce.chunk.js",
-    "main.js.map": "/revelation/static/js/main.6738c7ce.chunk.js.map",
-    "runtime-main.js": "/revelation/static/js/runtime-main.b31ec351.js",
-    "runtime-main.js.map": "/revelation/static/js/runtime-main.b31ec351.js.map",
-    "static/css/2.d8cb5cde.chunk.css": "/revelation/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.389bfbc7.chunk.js": "/revelation/static/js/2.389bfbc7.chunk.js",
-    "static/js/2.389bfbc7.chunk.js.map": "/revelation/static/js/2.389bfbc7.chunk.js.map",
-    "index.html": "/revelation/index.html",
-    "static/css/2.d8cb5cde.chunk.css.map": "/revelation/static/css/2.d8cb5cde.chunk.css.map",
-    "static/js/2.389bfbc7.chunk.js.LICENSE.txt": "/revelation/static/js/2.389bfbc7.chunk.js.LICENSE.txt",
-    "static/media/AlohaBurger.c5173392.jpg": "/revelation/static/media/AlohaBurger.c5173392.jpg"
+    "main.js": "/LiveRestaurant/static/js/main.6738c7ce.chunk.js",
+    "main.js.map": "/LiveRestaurant/static/js/main.6738c7ce.chunk.js.map",
+    "runtime-main.js": "/LiveRestaurant/static/js/runtime-main.ab25bfe0.js",
+    "runtime-main.js.map": "/LiveRestaurant/static/js/runtime-main.ab25bfe0.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/LiveRestaurant/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.389bfbc7.chunk.js": "/LiveRestaurant/static/js/2.389bfbc7.chunk.js",
+    "static/js/2.389bfbc7.chunk.js.map": "/LiveRestaurant/static/js/2.389bfbc7.chunk.js.map",
+    "index.html": "/LiveRestaurant/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/LiveRestaurant/static/css/2.d8cb5cde.chunk.css.map",
+    "static/js/2.389bfbc7.chunk.js.LICENSE.txt": "/LiveRestaurant/static/js/2.389bfbc7.chunk.js.LICENSE.txt",
+    "static/media/AlohaBurger.c5173392.jpg": "/LiveRestaurant/static/media/AlohaBurger.c5173392.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b31ec351.js",
+    "static/js/runtime-main.ab25bfe0.js",
     "static/css/2.d8cb5cde.chunk.css",
     "static/js/2.389bfbc7.chunk.js",
     "static/js/main.6738c7ce.chunk.js"
